@@ -7,4 +7,7 @@ x=1+2
 y=2-1
 
 #division
-y = 10 / 2
+z = 10 / 2
+
+#Multiplication
+a = 10 * 2
